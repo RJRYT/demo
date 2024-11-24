@@ -8,3 +8,8 @@ demo pages: [rjryt.github.io/demo](https://rjryt.github.io/demo/)
  - [molla](https://rjryt.github.io/demo/molla)
  - [multishop](https://rjryt.github.io/demo/multishop)
  - [shopper](https://rjryt.github.io/demo/shopper)
+
+   Hosted on [github](https://github.com/RJRYT)
+
+---
+note: credits of above templates are goes to its orginal developers.
